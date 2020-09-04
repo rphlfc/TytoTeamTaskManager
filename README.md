@@ -1,6 +1,6 @@
 # Tyto Team Task Manager
 
-Encontrei essa [tela de login](https://dribbble.com/shots/14125278-Tyto-Team-Task-Manager/attachments/5748625?mode=media) e decidi implementar.
+Encontrei essa [tela de login](https://dribbble.com/shots/14125278-Tyto-Team-Task-Manager/attachments/5748625?mode=media) e decidi implementar com SwiftUI no iOS 13.
 
 ## Screenshots
 <p align="center">
